@@ -7,4 +7,4 @@ It is intended to be use in terminal
 
 You can run it in Windows,Linux and Mac OS
 
-A gift from your h4ck3r friend N3XXU5 - C0uRT of 0w1s Leader
+A gift from your friend N3XXU5 - C0uRT of 0w1s member
